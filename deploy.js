@@ -3,7 +3,8 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-  'REPLACE_WITH_YOUR_MNEMONIC',
+    //Metamask account for this project is for development purposes only.
+    //Replace mnemonic phrase below with your personal phrase.
     'air praise perfect woman noise zoo nominee explain radar add globe act',
     'https://rinkeby.infura.io/v3/2cf2bbd4068f45c08aeb064ce51468ed'
 
