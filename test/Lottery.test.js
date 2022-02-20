@@ -1,9 +1,11 @@
 const assert = require('assert');
 const ganache = require('ganache-cli');
-const Web3 = require('web3');
-const web3 = new Web3(ganache.provider());
+const Web3 = require('web3'); //Portal to the Etherum network (retrieve and make changes).
+const web3 = new Web3(ganache.provider()); //Ganache is the host network. Send and deploy contracts to the Ganache network. 
 
-const { interface, bytecode } = require('../compile');
+//Interface = ABI. Translation layer that communication data from the network to JS.
+//Bytecode = Compiled contract.
+const { interface, bytecode } = require('../compile'); 
 
 let lottery;
 let accounts;
