@@ -10,14 +10,21 @@ const { interface, bytecode } = require('../compile');
 let lottery;
 let accounts;
 
+//This block of code is executed before each test.
+//Each test will start with a new contract.
 beforeEach(async () => {
+    //Get a list of all accounts
     accounts = await web3.eth.getAccounts();
 
+    //Use one of those accounts to deploy the contract.
     lottery = await new web3.eth.Contract(JSON.parse(interface))
         .deploy({ data: bytecode })
         .send({ from: accounts[0], gas: '1000000'});
 });
 
+//.methods allows us to access the functions created in the contract.
+//.call() = read-only. Instantaneous.
+//.send() = change to the data in the contract. Not instantaneous.
 describe('Lottery Contract', () => {
     it('deploys a contract', () => {
         assert.ok(lottery.options.address);
