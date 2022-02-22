@@ -13,8 +13,8 @@ let accounts;
 //This block of code is executed before each test.
 //Each test will start with a new contract.
 beforeEach(async () => {
-    //Get a list of all accounts
-    accounts = await web3.eth.getAccounts();
+    
+    accounts = await web3.eth.getAccounts();//Get a list of all accounts
 
     //Use one of those accounts to deploy the contract.
     lottery = await new web3.eth.Contract(JSON.parse(interface))
