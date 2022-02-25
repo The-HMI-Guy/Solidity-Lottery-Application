@@ -2,12 +2,16 @@
 ***
 ## Table of contents
 * [General info](#general-info)
+* [Features](#features)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
 This project was built from the Udemy course by Stephen Grider. Over time, this project will branch off from the course and reflect personal features. 
-	
+
+## Features
+Coming soon!
+
 ## Technologies
 Project is created with:
 * Solidity Version: 0.4.17
