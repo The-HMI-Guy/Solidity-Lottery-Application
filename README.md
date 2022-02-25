@@ -22,4 +22,4 @@ Project is created with:
 # Metamask Installation
 1. Install the extension for your specific browser (Chrome is recommended).
 2. After installing the extension, click **Get Started**
-![Metamask-GetStarted](/Users/ortiz/Documents/Lottery/README_Pictures/Metamask-getstarted.png)
+![Metamask](/Users/ortiz/Documents/Lottery/Metamask-getstarted.jpg)
