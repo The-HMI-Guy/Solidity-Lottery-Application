@@ -21,5 +21,6 @@ Project is created with:
 
 # Metamask Installation
 1. Install the extension for your specific browser (Chrome is recommended).
-2. After installing the extension, click **Get Started** 
+2. After installing the extension, click 
+
 ![Metamask-GetStarted](https://user-images.githubusercontent.com/96752508/155795509-4f2cb3f3-31c9-4a43-a5dc-7be22890a83b.jpg)
