@@ -18,4 +18,15 @@ Project is created with:
 * Truffle Provider Version: 1.5.1
 	
 ## Setup
-Coming soon!
+
+# Metamask Installation
+1. Install the extension for your specific browser (Chrome is recommended).
+2. After installing the extension, click **Get Started**
+![alt text](https://github.com/The-HMI-Guy/Solidity-Lottery-Application.git/blob/main/README_Pictures/Metamask-getstarted.png?raw=true)
+To run this project, I rec:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
