@@ -22,11 +22,4 @@ Project is created with:
 # Metamask Installation
 1. Install the extension for your specific browser (Chrome is recommended).
 2. After installing the extension, click **Get Started**
-![alt text](https://github.com/The-HMI-Guy/Solidity-Lottery-Application.git/blob/main/README_Pictures/Metamask-getstarted.png?raw=true)
-To run this project, I rec:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+![Metamask-GetStarted](/Users/ortiz/Documents/Lottery/README_Pictures/Metamask-getstarted.png)
