@@ -44,3 +44,19 @@ Project is created with:
 6. Select each word from your secret phrase using the correct order. Once selected, click **Confirm**
 
 ![Metamask-ConfirmSecretPhrase](https://user-images.githubusercontent.com/96752508/155799644-7afda245-b930-4d92-b029-9b067f215896.png)
+
+7. If successful, you should see the following **Congratulations** message. If so, click **All Done**
+
+![Metamask-Congratulations](https://user-images.githubusercontent.com/96752508/155846635-be8ac800-cb70-413b-88d3-896c860d827b.png)
+
+8. You are now at the Metamask dashboard.
+
+![Metamask-AcctDashboard](https://user-images.githubusercontent.com/96752508/155846736-cf550ef0-e0f3-4f08-8ab3-6a10c1bf305c.png)
+
+9. This application will leverage the test network Rinkeby. To use the test network feature for Metamask, click **Ethereum Mainnet** and select **Show/Hide test networks**
+
+![Metamask-TestNetwork](https://user-images.githubusercontent.com/96752508/155846909-cf4b19b7-a8c4-428b-93f4-eee484a2b578.png)
+
+10. Toggle the **Show test networks** button to **ON**
+
+![Metamask-TestNetworkToggle](https://user-images.githubusercontent.com/96752508/155846972-37811741-04b0-4909-ad12-d21a130f08c8.png)
