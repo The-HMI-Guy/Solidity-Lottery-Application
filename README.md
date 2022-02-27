@@ -73,6 +73,7 @@ Project is created with:
 ![Metamask-Faucets](https://user-images.githubusercontent.com/96752508/155858637-741540f0-baa4-4142-8b91-64e63a4122bc.png)
 
 # Node.js Installation
-1. Install the LTS (Long Term Support) version of Node.js for your specific OS at [Node.js-Installation](https://nodejs.org/en/download/).
+1. Install the LTS (Long Term Support) version of Node.js for your specific OS at [Node.js-Installation](https://nodejs.org/en/download/). Installing Node.js will also install **npm** automatically. Npm is a CLI (Command-line Interface) tool, which will be used frequently.
 
 ![Node.js-Installation](https://user-images.githubusercontent.com/96752508/155885739-82deb44c-3ced-4041-a8a4-695a4672dc18.png)
+
