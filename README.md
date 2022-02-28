@@ -77,3 +77,6 @@ Project is created with:
 
 ![Node.js-Installation](https://user-images.githubusercontent.com/96752508/155885739-82deb44c-3ced-4041-a8a4-695a4672dc18.png)
 
+# Contract Installation
+
+1. Run npm install
