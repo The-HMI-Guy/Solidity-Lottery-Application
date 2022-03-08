@@ -1,4 +1,4 @@
-pragma solidity ^0.4.17;
+pragma solidity ^0.4.19;
 
 contract Lottery {
     //Manager is the address of the person who created the contract.
