@@ -1,4 +1,4 @@
-pragma solidity ^0.4.19;
+pragma solidity ^0.4.17;
 
 contract Lottery {
     //Manager is the address of the person who created the contract.
@@ -33,7 +33,6 @@ contract Lottery {
     function pickWinner() public restricted {
         uint256 index = random() % players.length;
         players[index].transfer(this.balance);
-        //lastWinner = players[index];
         players = new address[](0);
     }
 
